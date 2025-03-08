@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in the [Department of Statistics at Purdue University](https://www.stat.purdue.edu/index.html). I am a member of the [Data Science in Finance and Industry Research Focus Group](https://sites.google.com/view/purdue-dsfi/home) and advised by Prof. Kiseop Lee. I completed my Master's degree in Financial Mathematics at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and Bachelor's degree in Statistics at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
+I am currently a Ph.D. student in the [Department of Statistics at Purdue University](https://www.stat.purdue.edu/index.html). I completed my Master's degree in Financial Mathematics at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and Bachelor's degree in Statistics at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
 
-My research interests include **Machine Learning** and **Stochastic Control** with applications in **Quantitative Finance**. 
+My research interests include **Machine Learning** and **Financial Mathematics**. 
+
+<!-- **Stochastic Control** with applications in **Quantitative Finance**. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -102,6 +104,9 @@ My research interests include **Machine Learning** and **Stochastic Control** wi
 
 
 # 🧑🏻‍💻 Experiences
+
+- Research Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2025
+
 - Market/Model Risk Intern, GF Securities, Risk Management Department, 2024
 
 - Research Assistant in Financial Mathematics, [The Hong Kong Polytechnic University, Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), 2024
