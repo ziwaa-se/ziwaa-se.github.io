@@ -105,7 +105,9 @@ My research interests include **Machine Learning** and **Financial Mathematics**
 
 # 🧑🏻‍💻 Experiences
 
-- Research Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2025
+- Research Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2025 - present
+
+- Teaching Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2024 - present
 
 - Market/Model Risk Intern, GF Securities, Risk Management Department, 2024
 
