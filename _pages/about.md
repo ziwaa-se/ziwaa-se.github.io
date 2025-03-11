@@ -61,6 +61,7 @@ My research interests include **Machine Learning** and **Financial Mathematics**
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+<!-- 
 **Working Paper**
 
 - Perhaps in the future ...
@@ -68,6 +69,7 @@ My research interests include **Machine Learning** and **Financial Mathematics**
 **Published Paper**
 
 - Perhaps in the future ...
+-->
 
 **Book Chapter**
 
@@ -76,9 +78,11 @@ My research interests include **Machine Learning** and **Financial Mathematics**
 
 
 
+<!-- 
 # 💬 Invited Talks
 
 - Perhaps in the future ...
+-->
 
 <!-- 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
