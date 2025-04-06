@@ -94,6 +94,8 @@ My research interests include **Machine Learning** and **Financial Mathematics**
 
 **Purdue University, Teaching Assistant**
 
+- 2025 Summer: STAT 35000 - Introduction to Statistics
+
 - 2025 Spring: STAT 35000 - Introduction to Statistics
 
 - 2024 Fall: STAT 35000 - Introduction to Statistics
