@@ -121,10 +121,10 @@ kramdown:
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "_pages" #""
       type: pages
     values:
-      layout: default
+      layout: single #default
       author_profile: true
 
 
