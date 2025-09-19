@@ -19,7 +19,7 @@ main:
     url: "/#-teaching"
 
   - title: "Experiences"
-    url: /experiences/
+    url: /experiences/ #"/#-experiences"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
