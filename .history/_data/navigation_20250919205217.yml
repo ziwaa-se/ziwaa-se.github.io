@@ -12,7 +12,7 @@ main:
   - title: "Publications"
     url: "/publications/"
 
-  # - title: "Invited Talks" **
+  # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Teaching"
@@ -21,8 +21,8 @@ main:
   - title: "Experiences"
     url:  /experiences/ #"/#-experiences"
 
-  # - title: "CV" **
-  #   url:  /cv/ 
+  # - title: "CV"
+  #   url:  /experiences/ 
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
