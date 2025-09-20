@@ -10,13 +10,13 @@ main:
     url: "/#-educations"
 
   - title: "Publications"
-    url: "/publications/"
+    url: "/publications"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
 
   - title: "Teaching"
-    url: "/teaching/"
+    url: "/#-teaching"
 
   - title: "Experiences"
     url:  /experiences/ #"/#-experiences"

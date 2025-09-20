@@ -16,7 +16,7 @@ main:
   #   url: "/#-invited-talks"
 
   - title: "Teaching"
-    url: "/teaching/"
+    url: "/xteaching/"
 
   - title: "Experiences"
     url:  /experiences/ #"/#-experiences"
