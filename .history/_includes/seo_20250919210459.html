@@ -9,9 +9,9 @@
 {% endif %}
 
 <!-- <title>{{ site.title }} - Homepage</title> -->
-{%- assign title_sep = site.title_separator | default: " - " -%}
+{%- assign title_sep = site.title_separator | default: " – " -%}
 {%- assign page_title_for_tab = page.seo.title | default: page.title | default: site.title -%}
-<title>{{ site.title }}{%- if page_title_for_tab and page_title_for_tab != site.title -%}{{ title_sep }}{{ page_title_for_tab }}{%- endif -%}</title>
+<title>{{ page_title_for_tab }}{%- if site.title and page_title_for_tab != site.title -%}{{ title_sep }}{{ site.title }}{%- endif -%}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -35,7 +35,7 @@
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
 <!-- <meta property="og:title" content="{{ site.title }}"> -->
-<meta property="og:title" content="{{ site.title }}{{ title_sep }}{{ page_title_for_tab }}">
+<meta property="og:title" content="{{ page_title_for_tab }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
