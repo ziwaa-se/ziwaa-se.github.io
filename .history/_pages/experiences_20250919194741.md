@@ -1,7 +1,0 @@
----
-title: "Experiences"
-layout: single
-permalink: /experiences/
-author_profile: true
----
-
