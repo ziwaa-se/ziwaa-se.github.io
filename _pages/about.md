@@ -40,7 +40,7 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 -->
 
 # 📖 Educations
-- Ph.D. in Statistics, Purdue University, 2024 - 2029 (Expected) [GPA: 4.0/4.0]
+- Ph.D. in Statistics, Purdue University, 2024 - 2029 (Expected) [GPA: 3.97/4.0]
 
 - M.Sc. in Financial Mathematics, The Hong Kong University of Science and Technology, 2022 - 2023 [GPA: 4.0/4.3]
 
