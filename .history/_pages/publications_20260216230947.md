@@ -33,6 +33,8 @@ author_profile: true
 
 **Working Paper**
 
+- Conditional Flow Matching with Coreset
+
 - Normalizing flow with Diffusion
 
 <!-- - AI-based Synthetic Data Generation -->
