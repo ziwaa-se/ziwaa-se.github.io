@@ -33,7 +33,9 @@ author_profile: true
 
 **Working Paper**
 
-- Conditional Flow Matching with Coreset
+- CCVFM
+
+- CIFM
 
 - Normalizing flow with Diffusion
 
