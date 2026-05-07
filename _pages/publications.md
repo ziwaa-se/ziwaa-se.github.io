@@ -33,15 +33,21 @@ author_profile: true
 
 **Working Paper**
 
-- CCVFM
-
 - CIFM
 
 - Normalizing flow with Diffusion
 
-<!-- - AI-based Synthetic Data Generation -->
+- **Coreset-Induced Conditional Velocity Flow Matching**
 
-- AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries
+Xiao Wang, Zihua She, Jianxi Su
+
+Submitted. 
+
+- **AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**
+
+Shea Parkes, Zihua She, Jianxi Su, Xiao Wang
+
+Submitted. 
 
 **Book Chapter**
 
