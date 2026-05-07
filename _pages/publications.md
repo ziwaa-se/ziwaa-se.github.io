@@ -37,17 +37,9 @@ author_profile: true
 
 - Normalizing flow with Diffusion
 
-- **Coreset-Induced Conditional Velocity Flow Matching**
+- **Coreset-Induced Conditional Velocity Flow Matching**. Xiao Wang, Zihua She, Jianxi Su. Submitted. 
 
-Xiao Wang, Zihua She, Jianxi Su
-
-Submitted. 
-
-- **AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**
-
-Shea Parkes, Zihua She, Jianxi Su, Xiao Wang
-
-Submitted. 
+- **AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**. Shea Parkes, Zihua She, Jianxi Su, Xiao Wang. Submitted. 
 
 **Book Chapter**
 
