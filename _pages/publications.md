@@ -37,6 +37,8 @@ author_profile: true
 
 <!-- - Normalizing flow with Diffusion -->
 
+- [**Optimal Estimation for Flow Matching via Coreset Induced Coupling**]. Xiao Wang, Zihua She, Jianxi Su. Submitted. 
+
 - [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Xiao Wang, Zihua She, Jianxi Su. Submitted. 
 
 - [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/). Shea Parkes, Zihua She, Jianxi Su, Xiao Wang. The Society of Actuaries. 
