@@ -29,8 +29,9 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 
 
 # 🔥 News
-- 2025.09: &nbsp;🎉🎉 I passed the Ph.D. qualifying examinations. 
-- 2024.08: &nbsp;🎉🎉 I began my Ph.D. study at Purdue. 
+- 2026.06: Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) is now available on arXiv and currently under review.
+- 2026.05: &nbsp;🎉🎉 Our SOA technical report, [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/) is now available from the Society of Actuaries.
+- 2025.09: &nbsp;🎉🎉 I passed the Ph.D. qualifying examinations at Purdue. 
 - 2023:11: &nbsp;🎉🎉 I got my Master's degree from HKUST. 
 - 2022.06: &nbsp;🎉🎉 I got my Bachelor's degree from SYSU. 
 
@@ -72,7 +73,7 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 - Outstanding Student Cadre of Sun Yat-Sen University 
 
 
-# 💻 Skills
+<!-- # 💻 Skills
 
 - Coding: Python, R, SAS, MATLAB, C++, MySQL, LaTeX
 
@@ -81,4 +82,4 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 
 # 📑 Selected Courses
 
-- Statistical Machine Learning (A+), Theory of Linear Models and Analysis of Experimental Designs (A+), Computational Finance II (A+), Stochastic Calculus (A+), Advanced Probability and Statistics (A+), Quantitative Analysis of Financial Time Series (A+), Computational Statistics (A), Simulation and Optimization in Quantitative Finance (A), Foundations Of Deep Learning (A)
+- Statistical Machine Learning (A+), Theory of Linear Models and Analysis of Experimental Designs (A+), Computational Finance II (A+), Stochastic Calculus (A+), Advanced Probability and Statistics (A+), Quantitative Analysis of Financial Time Series (A+), Computational Statistics (A), Simulation and Optimization in Quantitative Finance (A), Foundations Of Deep Learning (A) -->
