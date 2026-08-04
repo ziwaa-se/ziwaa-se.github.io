@@ -9,7 +9,7 @@ author_profile: true
 
 # 🧑🏻‍💻 Experiences
 
-- Research Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2026/01 - 2026/05
+- Research Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2026/01 - 2026/08
 
 - Teaching Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2024/08 - 2025/12
 
