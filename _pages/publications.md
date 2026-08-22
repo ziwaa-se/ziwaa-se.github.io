@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 layout: default     
 author_profile: true
 ---
@@ -55,11 +55,11 @@ author_profile: true
 
 
 # 👨🏻‍🏫 Talks & Posters 
-- Coreset-Based Joint Source-Coupling Design for Flow Matching
+**Coreset-Based Joint Source-Coupling Design for Flow Matching**
 
-IMSI Workshop, Statistical Foundations of Generative Modeling
+- IMSI Workshop, Statistical Foundations of Generative Modeling
 
-Chicago, October 5 - 9, 2026. 
+- The University of Chicago, Chicago, October 5 - 9, 2026. 
 
 
 
