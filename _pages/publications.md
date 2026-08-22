@@ -43,7 +43,7 @@ author_profile: true
 
 **Preprint**
 
-- [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Xiao Wang, Zihua She, Jianxi Su. Submitted. 
+- [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Zihua She, Jianxi Su, Xiao Wang. Submitted. 
 
 **Technical Report**
 
@@ -52,3 +52,14 @@ author_profile: true
 **Book Chapter**
 
 - BIG DATA IN FINANCE: Big Data and Industrial Chain Analysis. ISBN: 978-7-5654-4751-8. In Chinese 《金融大数据：大数据与产业链分析》. 陈玉罡、黎江、罗佳璟、佘梓华. 
+
+
+# 👨🏻‍🏫 Talks & Posters 
+- Coreset-Based Joint Source-Coupling Design for Flow Matching
+
+IMSI Workshop, Statistical Foundations of Generative Modeling
+
+Chicago, October 5 - 9, 2026. 
+
+
+
