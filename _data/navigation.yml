@@ -9,8 +9,8 @@ main:
   # - title: "Educations"
   #   url: "/#-educations"
 
-  - title: "Publications"
-    url: "/publications/"
+  - title: "Research"
+    url: "/research/"
 
   # - title: "Invited Talks" **
   #   url: "/#-invited-talks"
