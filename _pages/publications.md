@@ -33,13 +33,13 @@ author_profile: true
 
 **Working Paper**
 
-- Statistical applications of CCVFM. Manuscript in preparation. 
+- LLM Benchmark Means can be blind to the Tail. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+
+- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+
+- Optimal Estimation for Flow Matching via Coreset Induced Coupling. Xiao Wang, Zihua She, Jianxi Su. Submitted to The Annals of Statistics. 
 
 - Coreset-Based Joint Source-Coupling Design for Flow Matching. Manuscript in preparation. 
-
-<!-- - Normalizing flow with Diffusion -->
-
-- Optimal Estimation for Flow Matching via Coreset Induced Coupling. Xiao Wang, Zihua She, Jianxi Su. Submitted. 
 
 **Preprint**
 
