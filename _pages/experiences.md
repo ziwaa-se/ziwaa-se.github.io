@@ -13,7 +13,7 @@ author_profile: true
 
 - Teaching Assistant, [Purdue University, Department of Statistics](https://www.stat.purdue.edu/index.html), 2024/08 - 2025/12
 
-- Market/Model Risk Intern, GF Securities, Risk Management Department, 2024/04 - 2024/06
+- Market/Model Risk Intern, [GF Securities](http://www.gf.com.cn/), Risk Management Department, 2024/04 - 2024/06
 
 - Research Assistant in Financial Mathematics, [The Hong Kong Polytechnic University, Department of Applied Mathematics](https://www.polyu.edu.hk/ama/), 2024/01 - 2024/03
 <!-- Supervisor: Prof. Kexin CHEN -->

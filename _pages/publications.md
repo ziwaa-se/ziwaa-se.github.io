@@ -33,6 +33,10 @@ author_profile: true
 
 **Working Paper**
 
+- Score and Rank Inference for Large Language Model. Manuscript in preparation. 
+
+- Half A Tweedie Step. Manuscript in preparation. 
+
 - LLM Benchmark Means can be blind to the Tail. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
 
 - Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
@@ -43,7 +47,7 @@ author_profile: true
 
 **Preprint**
 
-- [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Zihua She, Jianxi Su, Xiao Wang. Submitted. 
+- [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Zihua She, Jianxi Su, Xiao Wang. Submitted to The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). 
 
 **Technical Report**
 
