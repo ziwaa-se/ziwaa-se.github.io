@@ -23,5 +23,5 @@ author_profile: true
 
 
 # 📖 Professional Service
-- Reviewer, International Conference on Learning Representations (ICLR), 2026
-- Reviewer, Statistics and Trustworthy AI for Cross (X)-Domain Acceleration Conference (STAI-X), 2026
+- Reviewer, International Conference on Learning Representations (ICLR 2027)
+- Reviewer, Statistics and Trustworthy AI for Cross (X)-Domain Acceleration Conference (STAI-X 2026)
