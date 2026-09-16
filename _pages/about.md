@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am currently a Ph.D. student in Statistics in the [Department of Statistics at Purdue University](https://www.stat.purdue.edu/index.html), where I am advised by Prof. [Xiao Wang](https://www.stat.purdue.edu/~wangxiao/index.html) and Prof. [Jianxi Su](https://www.stat.purdue.edu/~jianxi/). I received my Master’s degree in Financial Mathematics from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and my Bachelor's degree in Statistics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
+Hello! I am currently a Ph.D. student in Statistics in the [Department of Statistics at Purdue University](https://www.stat.purdue.edu/index.html), where I am advised by Prof. [Xiao Wang](https://www.stat.purdue.edu/~wangxiao/index.html) and Prof. [Jianxi Su](https://www.terry.uga.edu/directory/jianxi-su/). I received my Master’s degree in Financial Mathematics from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and my Bachelor's degree in Statistics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
 
 My research interests include **Machine Learning** and **Financial Mathematics**. Currently, I focus on the following topics: (1) Large Language Model Evaluation; (2) Theoretical Foundations and Applications of Generative models; (3) Stochastic control in actuarial science and finance. 
 

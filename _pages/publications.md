@@ -33,6 +33,8 @@ author_profile: true
 
 **Working Paper**
 
+- Model-Aware Monitoring. Manuscript in preparation. 
+
 - Score and Rank Inference for Large Language Model. Manuscript in preparation. 
 
 - Half A Tweedie Step. Manuscript in preparation. 
