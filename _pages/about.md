@@ -73,13 +73,17 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 - Outstanding Student Cadre of Sun Yat-Sen University 
 
 
-<!-- # 💻 Skills
+# 💻 Skills
 
-- Coding: Python, R, SAS, MATLAB, C++, MySQL, LaTeX
+- Coding: Python, R, SAS, MATLAB, C++, MySQL, LaTeX, Typst
 
 - Languages: Mandarin (Native), Teochew (Native), English (Fluent), Cantonese (Familiar)
 
 
 # 📑 Selected Courses
 
-- Statistical Machine Learning (A+), Theory of Linear Models and Analysis of Experimental Designs (A+), Computational Finance II (A+), Stochastic Calculus (A+), Advanced Probability and Statistics (A+), Quantitative Analysis of Financial Time Series (A+), Computational Statistics (A), Simulation and Optimization in Quantitative Finance (A), Foundations Of Deep Learning (A) -->
+Some of my course notes on Statistics, Machine Learning and Financial Mathematics are available below; click on a linked course title to view the notes. 
+
+- **Statistics & Machine Learning:** Statistical Machine Learning (A+), Theory of Linear Models and Analysis of Experimental Designs (A+), Advanced Probability and Statistics (A+), Computational Statistics (A), Foundations of Deep Learning (A)
+
+- **Financial Mathematics:** Stochastic Calculus (A+), Computational Finance II (A+), Quantitative Analysis of Financial Time Series (A+), Simulation and Optimization in Quantitative Finance (A)
