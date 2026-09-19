@@ -21,8 +21,11 @@ main:
   - title: "Experiences"
     url:  /experiences/ #"/#-experiences"
 
-  # - title: "CV" **
-  #   url:  /cv/ 
+  - title: "中文版"
+    url:  /CN/ #"/#-experiences"
+
+  - title: "CV" 
+    url:  /cv/ 
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
