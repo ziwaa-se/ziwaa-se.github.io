@@ -33,31 +33,33 @@ author_profile: true
 
 **Working Paper**
 
-- Model-Aware Monitoring. Manuscript in preparation. 
+- What Zero Detections Certify: Statistical Safety Cases for Model-Aware Monitoring. **Zihua She, Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- Score and Rank Inference for Large Language Model. Manuscript in preparation. 
+- LLM Benchmark Means can be blind to the Tail. **Zihua She, Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- Half A Tweedie Step. Manuscript in preparation. 
+- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. **Zihua She, Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
 
-- LLM Benchmark Means can be blind to the Tail. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Which Self-Improvements Should We Trust? Certified Promotion When Agents Reuse Their Benchmark. **Xiaojing Sun, Yuhan Zeng, Zihua She, Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
 
-- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Optimal Estimation for Flow Matching via Coreset Induced Coupling. **Xiao Wang, Zihua She, Jianxi Su**. Submitted to _The Annals of Statistics_. 
 
-- Optimal Estimation for Flow Matching via Coreset Induced Coupling. Xiao Wang, Zihua She, Jianxi Su. Submitted to The Annals of Statistics. 
+- Score and Rank Inference for Large Language Model. **Zihua She, Xiao Wang**. _Manuscript in preparation_. 
 
-- Coreset-Based Joint Source-Coupling Design for Flow Matching. Manuscript in preparation. 
+- Half A Tweedie Step. **Zihua She, Xiao Wang**. _Manuscript in preparation_. 
+
+- Coreset-Based Joint Source-Coupling Design for Flow Matching. **#underline[Zihua She], Jianxi Su, Xiao Wang**. _Manuscript in preparation_. 
 
 **Preprint**
 
-- [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951). Zihua She, Jianxi Su, Xiao Wang. Submitted to The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026). 
+- [Coreset-Induced Conditional Velocity Flow Matching](https://arxiv.org/pdf/2605.12951). **Zihua She, Jianxi Su, Xiao Wang**. Submitted to _The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_. 
 
 **Technical Report**
 
-- [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/). Shea Parkes, Zihua She, Jianxi Su, Xiao Wang. The Society of Actuaries. 
+- [AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/). **Shea Parkes, Zihua She, Jianxi Su, Xiao Wang**. _The Society of Actuaries_. 
 
 **Book Chapter**
 
-- BIG DATA IN FINANCE: Big Data and Industrial Chain Analysis. ISBN: 978-7-5654-4751-8. In Chinese 《金融大数据：大数据与产业链分析》. 陈玉罡、黎江、罗佳璟、佘梓华. 
+- BIG DATA IN FINANCE: Big Data and Industrial Chain Analysis. ISBN: 978-7-5654-4751-8. In Chinese 《金融大数据：大数据与产业链分析》. **陈玉罡、黎江、罗佳璟、佘梓华**. 
 
 
 # 👨🏻‍🏫 Talks & Posters 
