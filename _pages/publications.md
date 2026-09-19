@@ -37,9 +37,9 @@ author_profile: true
 
 - LLM Benchmark Means can be blind to the Tail. <u><strong>Zihua She</strong></u>, **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. <u><strong>Zihua She</strong></u>, **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. <u><strong>Zihua She</strong></u>, **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- Which Self-Improvements Should We Trust? Certified Promotion When Agents Reuse Their Benchmark. **Xiaojing Sun**, **Yuhan Zeng**, <u><strong>Zihua She</strong></u>, **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Which Self-Improvements Should We Trust? Certified Promotion When Agents Reuse Their Benchmark. **Xiaojing Sun**, **Yuhan Zeng**, <u><strong>Zihua She</strong></u>, **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
 - Optimal Estimation for Flow Matching via Coreset Induced Coupling. **Xiao Wang**, <u><strong>Zihua She</strong></u>, **Jianxi Su**. Submitted to _The Annals of Statistics_. 
 
@@ -59,7 +59,7 @@ author_profile: true
 
 **Book Chapter**
 
-- BIG DATA IN FINANCE: Big Data and Industrial Chain Analysis. ISBN: 978-7-5654-4751-8. In Chinese 《金融大数据：大数据与产业链分析》. **陈玉罡、黎江、罗佳璟、佘梓华**. 
+- BIG DATA IN FINANCE: Big Data and Industrial Chain Analysis. ISBN: 978-7-5654-4751-8. In Chinese 《金融大数据：大数据与产业链分析》. **陈玉罡**、**黎江**、**罗佳璟**、<u><strong>佘梓华</strong></u>. 
 
 
 # 👨🏻‍🏫 Talks & Posters 
