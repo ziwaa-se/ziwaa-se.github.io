@@ -1,0 +1,73 @@
+---
+title: "中文版"
+permalink: /CN/
+layout: default     
+author_profile: true
+---
+
+Hello! I am currently a Ph.D. student in Statistics in the [Department of Statistics at Purdue University](https://www.stat.purdue.edu/index.html), where I am advised by Prof. [Xiao Wang](https://www.stat.purdue.edu/~wangxiao/index.html) and Prof. [Jianxi Su](https://www.terry.uga.edu/directory/jianxi-su/). I received my Master’s degree in Financial Mathematics from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) and my Bachelor's degree in Statistics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). 
+
+My research interests include **Machine Learning** and **Financial Mathematics**. Currently, I focus on the following topics: (1) Large Language Model Evaluation; (2) Theoretical Foundations and Applications of Generative models; (3) Stochastic control in actuarial science and finance. 
+
+Don't hesitate to drop me an email if you are interested in cooperating with me! 
+
+<!-- **Stochastic Control** with applications in **Quantitative Finance**. -->
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
+
+# 🔥 News
+- 2026.06: Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) is now available on arXiv and currently under review.
+- 2026.05: &nbsp;🎉🎉 Our SOA technical report, [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/) is now available from the Society of Actuaries.
+- 2025.09: &nbsp;🎉🎉 I passed the Ph.D. qualifying examinations at Purdue. 
+- 2023:11: &nbsp;🎉🎉 I got my Master's degree from HKUST. 
+- 2022.06: &nbsp;🎉🎉 I got my Bachelor's degree from SYSU. 
+
+<!-- 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  
+-->
+
+# 📖 Educations
+- Ph.D. in Statistics, Purdue University, 2024 - 2029 (Expected) [GPA: 3.88/4.0]
+
+- M.Sc. in Financial Mathematics, The Hong Kong University of Science and Technology, 2022 - 2023 [GPA: 4.0/4.3]
+
+- B.Sc. in Statistics, Sun Yat-sen University, 2018 - 2022 [GPA: 3.8/4.0]
+
+
+
+<!-- 
+# 💬 Invited Talks
+
+- Perhaps in the future ...
+-->
+
+<!-- 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
+-->
+
+
+
+
+# 🎖 Honors and Awards
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Third Prize Scholarship of Sun Yat-Sen University 
+
+- Second Prize Scholarship of Sun Yat-Sen University 
+
+- Outstanding Student Cadre of Sun Yat-Sen University 
+
+
+<!-- # 💻 Skills
+
+- Coding: Python, R, SAS, MATLAB, C++, MySQL, LaTeX
+
+- Languages: Mandarin (Native), Teochew (Native), English (Fluent), Cantonese (Familiar)
+
+
+# 📑 Selected Courses
+
+- Statistical Machine Learning (A+), Theory of Linear Models and Analysis of Experimental Designs (A+), Computational Finance II (A+), Stochastic Calculus (A+), Advanced Probability and Statistics (A+), Quantitative Analysis of Financial Time Series (A+), Computational Statistics (A), Simulation and Optimization in Quantitative Finance (A), Foundations Of Deep Learning (A) -->
