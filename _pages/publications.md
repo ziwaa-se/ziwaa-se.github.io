@@ -33,29 +33,29 @@ author_profile: true
 
 **Working Paper**
 
-- What Zero Detections Certify: Statistical Safety Cases for Model-Aware Monitoring. #underline[**Zihua She**], **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
+- What Zero Detections Certify: Statistical Safety Cases for Model-Aware Monitoring. #underline([**Zihua She**]), **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- LLM Benchmark Means can be blind to the Tail. #underline[**Zihua She**], **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
+- LLM Benchmark Means can be blind to the Tail. #underline([**Zihua She**]), **Xiao Wang**. Submitted to _The Fifteenth International Conference on Learning Representations (ICLR 2027)_. 
 
-- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. #underline[**Zihua She**], **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Your FID cannot see the Tail: Auditting and Reparing the Rare-Event Calibration of Large Generative Models. #underline([**Zihua She**]), **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
 
-- Which Self-Improvements Should We Trust? Certified Promotion When Agents Reuse Their Benchmark. **Xiaojing Sun**, **Yuhan Zeng**, #underline[**Zihua She**], **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
+- Which Self-Improvements Should We Trust? Certified Promotion When Agents Reuse Their Benchmark. **Xiaojing Sun**, **Yuhan Zeng**, #underline([**Zihua She**]), **Xiao Wang**. Submitted to The Fifteenth International Conference on Learning Representations (ICLR 2027). 
 
-- Optimal Estimation for Flow Matching via Coreset Induced Coupling. **Xiao Wang**, #underline[**Zihua She**], **Jianxi Su**. Submitted to _The Annals of Statistics_. 
+- Optimal Estimation for Flow Matching via Coreset Induced Coupling. **Xiao Wang**, #underline([**Zihua She**]), **Jianxi Su**. Submitted to _The Annals of Statistics_. 
 
-- Score and Rank Inference for Large Language Model. #underline[**Zihua She**], **Xiao Wang**. _Manuscript in preparation_. 
+- Score and Rank Inference for Large Language Model. #underline([**Zihua She**]), **Xiao Wang**. _Manuscript in preparation_. 
 
-- Half A Tweedie Step. #underline[**Zihua She**], **Xiao Wang**. _Manuscript in preparation_. 
+- Half A Tweedie Step. #underline([**Zihua She**]), **Xiao Wang**. _Manuscript in preparation_. 
 
-- Coreset-Based Joint Source-Coupling Design for Flow Matching. #underline[**Zihua She**], **Jianxi Su**, **Xiao Wang**. _Manuscript in preparation_. 
+- Coreset-Based Joint Source-Coupling Design for Flow Matching. #underline([**Zihua She**]), **Jianxi Su**, **Xiao Wang**. _Manuscript in preparation_. 
 
 **Preprint**
 
-- [Coreset-Induced Conditional Velocity Flow Matching](https://arxiv.org/pdf/2605.12951). #underline[**Zihua She**], **Jianxi Su**, **Xiao Wang**. Submitted to _The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_. 
+- [Coreset-Induced Conditional Velocity Flow Matching](https://arxiv.org/pdf/2605.12951). #underline([**Zihua She**]), **Jianxi Su**, **Xiao Wang**. Submitted to _The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_. 
 
 **Technical Report**
 
-- [AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/). **Shea Parkes**, #underline[**Zihua She**], **Jianxi Su**, **Xiao Wang**. _The Society of Actuaries_. 
+- [AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/). **Shea Parkes**, #underline([**Zihua She**]), **Jianxi Su**, **Xiao Wang**. _The Society of Actuaries_. 
 
 **Book Chapter**
 
