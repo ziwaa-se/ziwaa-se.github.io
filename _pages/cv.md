@@ -5,6 +5,6 @@ layout: default
 author_profile: true
 ---
 
-- 📜 CV
+# 📜 CV
 
 Here is my latest [CV]().
