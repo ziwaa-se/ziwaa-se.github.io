@@ -29,7 +29,7 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 
 
 # 🔥 News
-- 2026.06: &nbsp;🎉🎉 Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) has been accepted to **NeurIPS 2026**. 
+- 2026.09: &nbsp;🎉🎉 Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) has been accepted to **NeurIPS 2026**! 
 - 2026.05: &nbsp;🎉🎉 Our SOA technical report, [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/) is now available from the Society of Actuaries.
 - 2025.09: &nbsp;🎉🎉 I passed the Ph.D. qualifying examinations at Purdue. 
 - 2023:11: &nbsp;🎉🎉 I got my Master's degree from HKUST. 
@@ -84,6 +84,6 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 
 Some of my course notes on Statistics, Machine Learning and Financial Mathematics are available below; click on a linked title to view the notes. 
 
-- **Statistics & Machine Learning:** [Statistical Machine Learning]() (A+), [Theory of Linear Models and Analysis of Experimental Designs]() (A+), Advanced Probability and Statistics (A+), [Computational Statistics]() (A), Foundations of Deep Learning (A)
+- **Statistics & Machine Learning**: [Statistical Machine Learning]() (A+), [Theory of Linear Models and Analysis of Experimental Designs]() (A+), Advanced Probability and Statistics (A+), [Computational Statistics]() (A), Foundations of Deep Learning (A)
 
-- **Financial Mathematics:** Stochastic Calculus (A+), Computational Finance II (A+), [Quantitative Analysis of Financial Time Series]() (A+), [Simulation and Optimization in Quantitative Finance]() (A)
+- **Financial Mathematics**: Stochastic Calculus (A+), Computational Finance II (A+), [Quantitative Analysis of Financial Time Series]() (A+), [Simulation and Optimization in Quantitative Finance]() (A)
