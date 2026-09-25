@@ -51,7 +51,7 @@ author_profile: true
 
 **Preprint**
 
-- [Coreset-Induced Conditional Velocity Flow Matching](https://arxiv.org/pdf/2605.12951). <u><strong>Zihua She</strong></u>, **Jianxi Su**, **Xiao Wang**. Submitted to _The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_. 
+- [Coreset-Induced Conditional Velocity Flow Matching](https://arxiv.org/pdf/2605.12951). <u><strong>Zihua She</strong></u>, **Jianxi Su**, **Xiao Wang**. Accepted to _The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)_. 
 
 **Technical Report**
 

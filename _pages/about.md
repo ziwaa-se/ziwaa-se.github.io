@@ -29,7 +29,7 @@ Don't hesitate to drop me an email if you are interested in cooperating with me!
 
 
 # 🔥 News
-- 2026.06: Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) is now available on arXiv and currently under review.
+- 2026.06: &nbsp;🎉🎉 Our paper [**Coreset-Induced Conditional Velocity Flow Matching**](https://arxiv.org/pdf/2605.12951) has been accepted to **NeurIPS 2026**. 
 - 2026.05: &nbsp;🎉🎉 Our SOA technical report, [**AI-Based Synthetic Medical Claims Data Generation: A Practical Guide for Actuaries**](https://www.soa.org/resources/research-reports/2026/synthetic-medical-claims-data/) is now available from the Society of Actuaries.
 - 2025.09: &nbsp;🎉🎉 I passed the Ph.D. qualifying examinations at Purdue. 
 - 2023:11: &nbsp;🎉🎉 I got my Master's degree from HKUST. 
