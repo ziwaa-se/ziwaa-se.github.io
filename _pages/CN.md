@@ -130,9 +130,9 @@ author_profile: true
 
 **普渡大学，助教**
 
-- 2025 Fall: STAT 47401 - Statistics for Risk Modeling I; STAT 47701 - Statistics for Risk Modeling II
+- 2025 秋季: STAT 47401 - Statistics for Risk Modeling I; STAT 47701 - Statistics for Risk Modeling II
 
-- 2024 Fall, 2025 Spring, Summer: STAT 35000 - Introduction to Statistics
+- 2024 秋季, 2025 春季, 夏季: STAT 35000 - Introduction to Statistics
 
 <!-- - 2025 Spring: STAT 35000 - Introduction to Statistics -->
 
@@ -140,11 +140,11 @@ author_profile: true
 
 **香港科技大学，助教**
 
-- 2024 Summer: MAFS 5270 - Mathematical Market Microstructure; MAFS 5360 - Computing for Finance in Python
+- 2024 夏季: MAFS 5270 - Mathematical Market Microstructure; MAFS 5360 - Computing for Finance in Python
 
-- 2024 Spring: MAFS 5210 - Mathematical Models of Investment
+- 2024 春季: MAFS 5210 - Mathematical Models of Investment
 
-- 2023 Fall: MAFS 5020 - Advanced Probability and Statistics
+- 2023 秋季: MAFS 5020 - Advanced Probability and Statistics
 
 
 # 🧑🏻‍💻 个人经历
